@@ -12,8 +12,8 @@ Python.
 ### Sobre o projeto
 Processos realizados diariamente pela equipe de análise de dados:
 - calcular os One Pages de cada loja.
-- enviar um email para os gerentes de cada loja com os respectivos One Pages no corpo do email e em anexo o arquivo com os dados utilizados para calculá-los.
-- enviar um email para a diretoria, informando no corpo do email a melhor e a pior loja do dia e também a melhor e pior loja do ano. Além disso, anexar dois arquivos: um com o ranking do dia e o outro ranking do ano.
+- enviar um e-mail para os gerentes de cada loja com os respectivos One Pages no corpo do e-mail e em anexo o arquivo com os dados utilizados para calculá-los.
+- enviar um e-mail para a diretoria, informando no corpo do e-mail a melhor e a pior loja do dia e também a melhor e pior loja do ano. Além disso, anexar dois arquivos: um com o ranking do dia e o outro ranking do ano.
 - no diretório "Backup Arquivos Lojas", salvar o arquivo com os dados da loja em sua respectiva pasta.
 
 O One Page, é um resumo com os principais indicadores de cada loja e permite em uma página comparar quais indicadores aquela loja conseguiu cumprir naquele dia/ano ou não. O One Page apresentará os seguintes indicadores com as repectivas metas:
