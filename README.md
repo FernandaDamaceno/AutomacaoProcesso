@@ -7,7 +7,7 @@ Construir um projeto que automatize os processos realizados diariamente pela equ
 Este projeto foi desenvolvido no curso "Python Impressionador" coordenado e ministardo por João Paulo Lira da empresa Hashtag.
 
 ### Tecnologia utilizada
-Python
+Python.
 
 ### Sobre o projeto
 Processos realizados diariamente pela equipe de análise de dados:
